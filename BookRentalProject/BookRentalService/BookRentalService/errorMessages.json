@@ -1,0 +1,17 @@
+{
+  "Errors": {
+    "BookNotFound": "The specified book does not exist.",
+    "BookUnavailable": "The book is currently unavailable.",
+    "UserNotFound": "The specified user does not exist.",
+    "MissingUserName": "Please enter the User Name.",
+    "MissingBookName": "Please enter the Book Name.",
+    "NoBooksFound": "No Books found",
+    "EnterGenre": "Please enter the Genre",
+    "EnterTitle": "Please enter the Title",
+    "BookReturn": "Book returned successfully.",
+    "RentalNotFound": "Rental record not found.",
+    "BookAlreadyReturn": "This book has already been returned."
+
+
+  }
+}
