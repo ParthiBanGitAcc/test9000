@@ -1,6 +1,6 @@
 # How to run it
 1. clone the project
-   git clone https://github.com/rd003/YtBookStore.git
+   git clone [https://github.com/rd003/YtBookStore.git](https://github.com/ParthiBanGitAcc/test9000)
 2. open `appsettings.json` file and update connection string's `data source=your server name`
    
    "ConnectionStrings": {
